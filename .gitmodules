@@ -5,3 +5,6 @@
 [submodule "ca-scheduler-deployment"]
 	path = ca-scheduler-deployment
 	url = https://github.com/amarchese96/ca-scheduler-deployment.git
+[submodule "ca-scheduler-examples"]
+	path = ca-scheduler-examples
+	url = https://github.com/amarchese96/ca-scheduler-examples.git
