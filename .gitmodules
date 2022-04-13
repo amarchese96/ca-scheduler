@@ -2,3 +2,6 @@
 	path = scheduler-plugins
 	url = https://github.com/amarchese96/scheduler-plugins.git
 	branch = cascheduling
+[submodule "ca-scheduler-deployment"]
+	path = ca-scheduler-deployment
+	url = https://github.com/amarchese96/ca-scheduler-deployment.git
