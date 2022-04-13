@@ -8,3 +8,6 @@
 [submodule "ca-scheduler-examples"]
 	path = ca-scheduler-examples
 	url = https://github.com/amarchese96/ca-scheduler-examples.git
+[submodule "mentat"]
+	path = mentat
+	url = https://github.com/amarchese96/mentat.git
