@@ -1,0 +1,4 @@
+[submodule "scheduler-plugins"]
+	path = scheduler-plugins
+	url = https://github.com/amarchese96/scheduler-plugins.git
+	branch = cascheduling
